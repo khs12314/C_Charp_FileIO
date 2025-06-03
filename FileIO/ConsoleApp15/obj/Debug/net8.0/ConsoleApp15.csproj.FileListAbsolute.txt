@@ -1,0 +1,17 @@
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.exe
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.deps.json
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.runtimeconfig.json
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.dll
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.pdb
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.AssemblyInfo.cs
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.dll
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\refint\ConsoleApp15.dll
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.pdb
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.genruntimeconfig.cache
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ref\ConsoleApp15.dll
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\qpqpq\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleA.A8D8F6D4.Up2Date
