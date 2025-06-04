@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qpqpq\\source\\repos\\ConsoleApp15\\ConsoleApp15\\FileIO.csproj",
+      "projectUniqueName": "C:\\Git_FileIO\\FileIO\\ConsoleApp15\\FileIO.csproj",
       "projectName": "FileIO",
-      "projectPath": "C:\\Users\\qpqpq\\source\\repos\\ConsoleApp15\\ConsoleApp15\\FileIO.csproj",
+      "projectPath": "C:\\Git_FileIO\\FileIO\\ConsoleApp15\\FileIO.csproj",
       "packagesPath": "C:\\Users\\qpqpq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qpqpq\\source\\repos\\ConsoleApp15\\ConsoleApp15\\obj\\",
+      "outputPath": "C:\\Git_FileIO\\FileIO\\ConsoleApp15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qpqpq\\AppData\\Roaming\\NuGet\\NuGet.Config",

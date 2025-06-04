@@ -21,7 +21,7 @@ namespace FileIOLib
         Close
 
     }
-
+    
     public interface IFileIO
     {
         public string FileName { get; set; }
@@ -319,9 +319,9 @@ namespace FileIOLib
             }
             FilePath = Path.Combine(FilePath, FileName);
             Console.WriteLine($"결합된 전체 경로: {FilePath}");
-
+            
         }
-
+        
         /// <summary>
         /// 기본 타입 입니다. 해당 메소드는 디버그 코드의 타입을 정하고 저장할 문자열을 결정하는 메소드입니다.
         /// </summary>
@@ -472,7 +472,7 @@ namespace FileIOLib
         }
         public class DebugingService
         {
-            private IFileIO fileIO;
+            public IFileIO fileIO;
 
             public DebugingService(IFileIO fileIO)
             {
@@ -485,6 +485,12 @@ namespace FileIOLib
         {
             static void Main(string[] args)
             {
+                JsonFile jsonFile = new JsonFile("DebugLog");
+                DebugingService debugingService = new DebugingService(jsonFile);
+                debugingService.fileIO.Initialize();
+                debugingService.fileIO.Write(DebugCode.Initialize);
+                debugingService.fileIO.Write(DebugCode.Bind);
+                debugingService.fileIO.Write(DebugCode.Listen);
 
             }
         }
